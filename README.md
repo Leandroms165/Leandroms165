@@ -13,8 +13,6 @@ Sou movido por desafios e pela busca constante por qualidade e eficiência nos p
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZyaXE5M2t0NHlnZ3dqcjZheXprOXFoaGp6eHVyaTR0OHM5bnc3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <p align="left">
 🎓 <strong>Formação:</strong> Graduado em Análise e Desenvolvimento de Sistemas pela UNA<br>
 📘 <strong>Pós-graduação:</strong> Gestão da Qualidade de Software<br>
